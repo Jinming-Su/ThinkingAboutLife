@@ -8,3 +8,4 @@
 文章的内容不知道该如何分类和进行整理，暂时先根据时间顺序排列。
 
 #### 文章列表
+* [为什么层次越高的人，计较得越少](https://github.com/su526664687/ThinkingAboutLife/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%82%E6%AC%A1%E8%B6%8A%E9%AB%98%E7%9A%84%E4%BA%BA%EF%BC%8C%E8%AE%A1%E8%BE%83%E5%BE%97%E8%B6%8A%E5%B0%91.md)
